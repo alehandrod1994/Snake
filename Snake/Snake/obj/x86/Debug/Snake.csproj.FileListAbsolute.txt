@@ -1,0 +1,4 @@
+c:\users\user\my documents\visual studio 2010\Projects\Snake\Snake\Snake\bin\Debug\Snake.exe
+c:\users\user\my documents\visual studio 2010\Projects\Snake\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\user\my documents\visual studio 2010\Projects\Snake\Snake\Snake\obj\x86\Debug\Snake.exe
+c:\users\user\my documents\visual studio 2010\Projects\Snake\Snake\Snake\obj\x86\Debug\Snake.pdb
